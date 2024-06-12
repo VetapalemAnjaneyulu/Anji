@@ -1,0 +1,19 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/parsing": [
+      "default",
+      {
+        "duplicate-id-aria": "off"
+      }
+    ],
+    "axe/aria": [
+      "default",
+      {
+        "aria-valid-attr": "off"
+      }
+    ]
+  }
+}
