@@ -8,6 +8,7 @@ export default function Home() {
       <h1>=======================</h1>
       <h1>Next.js curd operations by using next.js,tRPC,Prisma,Tailwind.css,postgresql,sql and Form Validations</h1>
       <Employee />
+      
     </main>
   );
 }
